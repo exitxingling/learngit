@@ -1,4 +1,4 @@
-her  name is celine xing
+HIS  name is celine xing
 this is my first git test file haha
 hello baby
 so cute
